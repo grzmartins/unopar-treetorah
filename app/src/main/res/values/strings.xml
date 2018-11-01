@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Unopar - TreeTorah</string>
+
+    <string name="botao_novo">Novo registro</string>
+    <string name="botao_salvar">Salvar</string>
+    <string name="botao_voltar">Voltar</string>
+
+    <string name="editar_ano">Ano</string>
+    <string name="editar_estado">Estado</string>
+    <string name="editar_arvores_cortadas">Árvores cortadas</string>
+    <string name="editar_arvores_repostas">Árvores repostas</string>
+
+    <string name="editar_ano_obrigatorio">O ano é de preenchimento obrigatório!</string>
+    <string name="editar_estado_obrigatorio">O ano é de preenchimento obrigatório!</string>
+    <string name="editar_arvores_cortadas_obrigatorio">A quantidade de árvores cortadas é de preenchimento obrigatório!</string>
+    <string name="editar_arvores_repostas_obrigatorio">A quantidade de árvores repostas é de preenchimento obrigatório!</string>
+
+    <string name="mensagem_success">Registro salvo com sucesso!</string>
+
+</resources>
